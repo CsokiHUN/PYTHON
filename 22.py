@@ -1,0 +1,1 @@
+print(input('Adj meg egy szöveget: ').replace(' ', ''))
